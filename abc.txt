@@ -1,3 +1,4 @@
 created file
 
 line 1 added in the file
+line 2 added in branch1
